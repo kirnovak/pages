@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kirnovak/pages/static/css/main.5f361e03.chunk.css",
+    "main.js": "/kirnovak/pages/static/js/main.fa1e45ac.chunk.js",
+    "main.js.map": "/kirnovak/pages/static/js/main.fa1e45ac.chunk.js.map",
+    "runtime-main.js": "/kirnovak/pages/static/js/runtime-main.ce38cc49.js",
+    "runtime-main.js.map": "/kirnovak/pages/static/js/runtime-main.ce38cc49.js.map",
+    "static/js/2.5a702c1e.chunk.js": "/kirnovak/pages/static/js/2.5a702c1e.chunk.js",
+    "static/js/2.5a702c1e.chunk.js.map": "/kirnovak/pages/static/js/2.5a702c1e.chunk.js.map",
+    "index.html": "/kirnovak/pages/index.html",
+    "precache-manifest.52d0a791a85b16c85fc432e17f50adb8.js": "/kirnovak/pages/precache-manifest.52d0a791a85b16c85fc432e17f50adb8.js",
+    "service-worker.js": "/kirnovak/pages/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/kirnovak/pages/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.5a702c1e.chunk.js.LICENSE.txt": "/kirnovak/pages/static/js/2.5a702c1e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce38cc49.js",
+    "static/js/2.5a702c1e.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.fa1e45ac.chunk.js"
+  ]
+}
